@@ -10,5 +10,14 @@
 				"Command + T": "macOS"
 			}
 		}
+	],
+	"Tools": [
+		{
+			"id": "f89-rdsTN0",
+			"reference": "https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html",
+			"description": "Setting a blending mode controls how the image you are working on is affected by the paint or editing tool. The base color is the color in the original image. The color that you want to apply to your image is the blend color. Once a blend mode has been selected and the edit applied, this the known as the result color.",
+			"name": "Blending Mode",
+			"value": {}
+		}
 	]
 }
