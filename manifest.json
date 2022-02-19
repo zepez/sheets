@@ -1,6 +1,3 @@
-{
-	"photoshop": {
-		"slug": "photoshop",
-		"name": "Adobe Photoshop"
-	}
-}
+[
+	"adobe/photoshop"	
+]
