@@ -1,0 +1,14 @@
+{
+	"Shortcuts": [
+		{
+			"id": "jG5-rJTsU2",
+			"reference": "https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html",
+			"description": "Transform a layer without constraints",
+			"name": "Free Transform",
+			"value": {
+				"Control + T": "Windows",
+				"Command + T": "macOS"
+			}
+		}
+	]
+}
