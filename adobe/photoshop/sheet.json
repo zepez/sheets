@@ -9,12 +9,39 @@
 				"Control + T": "Windows",
 				"Command + T": "macOS"
 			}
+		},
+		{
+			"id": "0293WMjpPw",
+			"reference": "https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html",
+			"description": "Toggle between painting and erasing with the same brush",
+			"name": "Toggle between painting/erasing",
+			"value": {
+				"Hold down ` (grave accent)": "Windows/macOS"
+			}
+		},
+		{
+			"id": "QWUowEs2nt",
+			"reference": "https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html",
+			"description": "",
+			"name": "Decrease Brush Size",
+			"value": {
+				"[": "Windows/macOS"
+			}
+		},
+		{
+			"id": "wRky7y0jtY",
+			"reference": "https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html",
+			"description": "",
+			"name": "Increase Brush Size",
+			"value": {
+				"]": "Windows/macOS"
+			}
 		}
 	],
-	"Tools": [
+	"Terms": [
 		{
 			"id": "f89-rdsTN0",
-			"reference": "https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html",
+			"reference": "https://en.wikipedia.org/wiki/Blend_modes",
 			"description": "Setting a blending mode controls how the image you are working on is affected by the paint or editing tool. The base color is the color in the original image. The color that you want to apply to your image is the blend color. Once a blend mode has been selected and the edit applied, this the known as the result color.",
 			"name": "Blending Mode",
 			"value": {}
