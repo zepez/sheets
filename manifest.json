@@ -1,3 +1,8 @@
-[
-	"adobe/photoshop"	
-]
+{
+	"adobe/photoshop": {
+		"name": "Adobe Photoshop"
+	},
+	"docker": {
+		"name": "Docker"
+	}
+}

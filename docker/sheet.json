@@ -1,0 +1,23 @@
+{
+	"Terms": [
+		{
+			"id": "Uiw04fOFDs",
+			"reference": "https://en.wikipedia.org/wiki/Docker_(software)",
+			"description": "Docker images act as a set of instructions to build a Docker container, like a template. Docker images also act as the starting point when using Docker. An image is comparable to a snapshot in virtual machine (VM) environments.",
+			"name": "Image",
+			"value": {}
+		}
+	],
+	"CLI": [
+		{
+			"id": "J8xKGrm4qH",
+			"reference": "https://docs.docker.com/engine/reference/commandline/build",
+			"description": "Build an image from a Dockerfile",
+			"name": "Build",
+			"value": {
+				"docker build [OPTIONS] PATH | URL | -": "",
+				"docker build .": "Build a docker image from a Dockerfile in the current working directory"
+			}
+		}
+	]
+}
